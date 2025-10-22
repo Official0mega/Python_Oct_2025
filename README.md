@@ -3,5 +3,4 @@
 - COding is Just fun
 
 ## Installing Python
-- We learned how to install Python successfully on our PC(Computer) By Mr. Destiny 
-- Hello there
+- We learned how to install Python successfully on our PC(Computer) By Mr. Destiny
