@@ -4,4 +4,3 @@
 
 ## Installing Python
 - We learned how to install Python successfully on our PC(Computer)
-![alt text](image.png)
